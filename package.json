@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest": "^18.1.0",
+    "ts-jest": "^18.0.2",
+    "typescript": "^2.1.5",
+    "what-the-diff": "^0.3.0"
+  }
+}
