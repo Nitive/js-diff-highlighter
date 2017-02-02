@@ -4,5 +4,29 @@
     "ts-jest": "^18.0.2",
     "typescript": "^2.1.5",
     "what-the-diff": "^0.3.0"
-  }
+  },
+  "name": "js-diff-highlighter",
+  "version": "0.1.0",
+  "description": "CLI tool to add syntax highlight for js files in git diff",
+  "main": "dest/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitive/js-diff-highlighter.git"
+  },
+  "keywords": [
+    "git",
+    "diff",
+    "syntax",
+    "highlighting"
+  ],
+  "author": "Maxim Samoilov <nitive@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nitive/js-diff-highlighter/issues"
+  },
+  "homepage": "https://github.com/Nitive/js-diff-highlighter#readme"
 }
