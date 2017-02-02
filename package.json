@@ -5,6 +5,7 @@
   "main": "dest/index.js",
   "devDependencies": {},
   "scripts": {
+    "build": "tsc -p .",
     "test": "jest"
   },
   "dependencies": {
